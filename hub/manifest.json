@@ -1,13 +1,13 @@
 {
-  "version": "v0.5.0-225-ga7f15ba",
-  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-225-ga7f15ba.bin",
+  "version": "v0.5.0-226-g450f4c8",
+  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-226-g450f4c8.bin",
   "size": 2166784,
-  "notes": "Cloud OTA now updates the web interface together with the firmware",
-  "sha256": "d8625c14d9055d466eed446727f46ab732d99c927f468a5c329bdb585c1355a5",
+  "notes": "Firmware and web interface in one update (paired cloud OTA test)",
+  "sha256": "07501e42a35676235317473c4cf38ce1df59b303144c9f1ce56735e3bfa16276",
   "www": {
-    "version": "a7f15ba-563ee1bc",
-    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-225-ga7f15ba.bin",
+    "version": "450f4c8-96458698",
+    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-226-g450f4c8.bin",
     "size": 524288,
-    "sha256": "27ebbbe837fd6e6bbc8ecbac52fc443f39eed616688d15c2dd262e5f4772ebcb"
+    "sha256": "8ae56854d2cdc9e21b52138cec90f445c105f37a006ec53169ca80f14685ffaa"
   }
 }
