@@ -1,6 +1,19 @@
 {
-  "version": "v0.5.0-999-gdeadbee",
-  "url": "https://updates.bitengine.tech/hub/bitengine-unsigned-test.bin",
-  "size": 2162688,
-  "notes": "T2.4 negative test: UNSIGNED image, the device must refuse it (signature_invalid)"
+  "version": "v0.5.0-229-gee1ed1b",
+  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-229-gee1ed1b.bin",
+  "size": 2166784,
+  "notes": "Cloud OTA covers firmware, web interface and Zigbee chip firmware",
+  "sha256": "9f1bad120762cdd83874d14af283868e19b26cc1a0332269412a21c14dc39f24",
+  "www": {
+    "version": "ee1ed1b-3a144491",
+    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-229-gee1ed1b.bin",
+    "size": 524288,
+    "sha256": "0adaa604c1a774cbc8e278fe319e03876cfdaa2163fdc5a4b755b8b0b3cd5d16"
+  },
+  "ncp": {
+    "version": "8.2.2.0 build 532",
+    "url": "https://updates.bitengine.tech/hub/zigbee_ncp-8.2.2.0-build-532.gbl",
+    "size": 243540,
+    "sha256": "b1f31c86588323eb1d609ca2998ddbf9fadbc5eacaf180d1471557d37c94516d"
+  }
 }
