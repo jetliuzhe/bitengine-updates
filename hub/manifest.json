@@ -1,7 +1,13 @@
 {
-  "version": "v0.5.0-221-g55e440f",
-  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-221-g55e440f.bin",
+  "version": "v0.5.0-225-ga7f15ba",
+  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-225-ga7f15ba.bin",
   "size": 2166784,
-  "notes": "Cloud OTA verified end to end on 2026-09-10",
-  "sha256": "7d66e57709a4e0d537559c69123daf9bbacdf6f466e4911d0d225206f8d7f576"
+  "notes": "Cloud OTA now updates the web interface together with the firmware",
+  "sha256": "d8625c14d9055d466eed446727f46ab732d99c927f468a5c329bdb585c1355a5",
+  "www": {
+    "version": "a7f15ba-563ee1bc",
+    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-225-ga7f15ba.bin",
+    "size": 524288,
+    "sha256": "27ebbbe837fd6e6bbc8ecbac52fc443f39eed616688d15c2dd262e5f4772ebcb"
+  }
 }
