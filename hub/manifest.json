@@ -1,7 +1,7 @@
 {
-  "version": "v0.5.0-219-gfef1ebd",
-  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-219-gfef1ebd.bin",
+  "version": "v0.5.0-221-g55e440f",
+  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-221-g55e440f.bin",
   "size": 2166784,
-  "notes": "T2.4 downgrade-refusal test: older than the running v0.5.0-221",
-  "sha256": "c0ff1eb821f41e4b5c7388d513dbca5d536e105f4be4e5e34218880fbeb979a0"
+  "notes": "Cloud OTA verified end to end on 2026-09-10",
+  "sha256": "7d66e57709a4e0d537559c69123daf9bbacdf6f466e4911d0d225206f8d7f576"
 }
