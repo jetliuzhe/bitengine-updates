@@ -1,14 +1,14 @@
 {
-  "version": "v0.5.0-229-gee1ed1b",
-  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-229-gee1ed1b.bin",
-  "size": 2166784,
-  "notes": "Cloud OTA covers firmware, web interface and Zigbee chip firmware",
-  "sha256": "9f1bad120762cdd83874d14af283868e19b26cc1a0332269412a21c14dc39f24",
+  "version": "v0.5.0-278-g6906948",
+  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-278-g6906948.bin",
+  "size": 2232320,
+  "notes": "JSON responses carry charset=utf-8; Zigbee mesh topology permanently dropped; docs consolidated",
+  "sha256": "cfbbce7e9c4665a5d8cde5900001c82a80f04debaf3ad9cc2b5d0a7bf686c2ca",
   "www": {
-    "version": "ee1ed1b-3a144491",
-    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-229-gee1ed1b.bin",
+    "version": "aaad531-48d56a51",
+    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-278-g6906948.bin",
     "size": 524288,
-    "sha256": "0adaa604c1a774cbc8e278fe319e03876cfdaa2163fdc5a4b755b8b0b3cd5d16"
+    "sha256": "a8458ee6e220212b343f5cac187b9e90bd0759cbe6012cc16d5b7955bd461908"
   },
   "ncp": {
     "version": "8.2.2.0 build 532",
