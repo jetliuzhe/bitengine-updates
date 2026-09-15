@@ -1,19 +1,19 @@
 {
-  "version": "v0.5.0-278-g6906948",
-  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-278-g6906948.bin",
+  "version": "v0.5.0-301-gee65940",
+  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-301-gee65940.bin",
   "size": 2232320,
-  "notes": "JSON responses carry charset=utf-8; Zigbee mesh topology permanently dropped; docs consolidated",
-  "sha256": "cfbbce7e9c4665a5d8cde5900001c82a80f04debaf3ad9cc2b5d0a7bf686c2ca",
+  "notes": "Failover keeps the Ethernet IP; MQTT follows the active link; Zigbee-chip firmware is signature-checked (developer unlock: hold the button 2-10 s)",
+  "sha256": "6ae5f44e94135c4b6dd82defbae139be09951b7a1363b38416456c888ba0a6a2",
   "www": {
-    "version": "aaad531-48d56a51",
-    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-278-g6906948.bin",
+    "version": "ac47506-fae80858",
+    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-301-gee65940.bin",
     "size": 524288,
-    "sha256": "a8458ee6e220212b343f5cac187b9e90bd0759cbe6012cc16d5b7955bd461908"
+    "sha256": "ee6885fbdbf43f81777a8ee9cf71ff08d6deb0cd20a388190c4e4298bdea258e"
   },
   "ncp": {
     "version": "8.2.2.0 build 532",
     "url": "https://updates.bitengine.tech/hub/zigbee_ncp-8.2.2.0-build-532.gbl",
-    "size": 243540,
-    "sha256": "b1f31c86588323eb1d609ca2998ddbf9fadbc5eacaf180d1471557d37c94516d"
+    "size": 243612,
+    "sha256": "904b2828f02041e7f714fd6ab9aea94741e899f8288f3c7ee29d8faf407b1241"
   }
 }
