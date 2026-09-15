@@ -1,12 +1,12 @@
 {
-  "version": "v0.5.0-302-gc642578",
-  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-302-gc642578.bin",
+  "version": "v0.5.0-309-g2787212",
+  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-309-g2787212.bin",
   "size": 2232320,
-  "notes": "Fixes an intermittent failure when installing Zigbee-chip firmware from the cloud",
-  "sha256": "9869d6b03bbea2f64f14f79302ff0ea4d2e141b5e38e58c6a2c967cd8bceb87d",
+  "notes": "Frees more internal memory while installing Zigbee-chip firmware from the cloud",
+  "sha256": "c4afe74ed5f629adcd840fa3e6008c21e2849e1f6231d42f71c929ab11a24c44",
   "www": {
     "version": "ac47506-fae80858",
-    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-302-gc642578.bin",
+    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-309-g2787212.bin",
     "size": 524288,
     "sha256": "ee6885fbdbf43f81777a8ee9cf71ff08d6deb0cd20a388190c4e4298bdea258e"
   },
