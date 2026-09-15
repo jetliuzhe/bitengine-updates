@@ -1,12 +1,12 @@
 {
-  "version": "v0.5.0-323-g0291c9f",
-  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-323-g0291c9f.bin",
+  "version": "v0.5.0-341-g84f96ac",
+  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-341-g84f96ac.bin",
   "size": 2232320,
-  "notes": "Frees internal memory used for network buffers, improving headroom on busy networks",
-  "sha256": "e3911a05862c7e31d50c2bd5397340d42a57b96230eb88c7d586947e777cd55c",
+  "notes": "Raises the Thread device capacity from 60 to 124, and adds a read-only SRP diagnostic endpoint",
+  "sha256": "2c92fb8c5489a910afec9e8f15d3004f11dbcf2d2867db9fc8bd1f3e76466e88",
   "www": {
     "version": "ac47506-fae80858",
-    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-323-g0291c9f.bin",
+    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-341-g84f96ac.bin",
     "size": 524288,
     "sha256": "ee6885fbdbf43f81777a8ee9cf71ff08d6deb0cd20a388190c4e4298bdea258e"
   },
