@@ -1,14 +1,14 @@
 {
-  "version": "v0.5.0-352-gcd67113",
-  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-352-gcd67113.bin",
+  "version": "v0.5.0-358-g65d7e03",
+  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-358-g65d7e03.bin",
   "size": 2232320,
-  "notes": "新增「射频地区」设置：按地区自动限制 Zigbee 与 Thread 发射功率，ZHA 不用再手填功率。见设置页",
-  "sha256": "04cdd0b58bf932d25c3818050c8614438b6e7ac473cf24bc51528b3aea46b3b1",
+  "notes": "修正 Zigbee 网络「找不到」的误报横幅；Zigbee 页可重新声明信道；协调器断开不再复位 Zigbee 芯片；长时间无协调器时会提示",
+  "sha256": "43705ed4c6c1b6a29d8bf3732da53d59cee41bfebee04ced46dd440f3fb2019f",
   "www": {
-    "version": "b2e4f58-98a92cda",
-    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-352-gcd67113.bin",
+    "version": "65d7e03-5ff30984",
+    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-358-g65d7e03.bin",
     "size": 524288,
-    "sha256": "64a2f69b7a96b9e3eecc4c3b311eb4c08703d2c23637a563a2ad8fd743ac405b"
+    "sha256": "3644d15c77fc7ab3ee36f17d96779c925ee95c11c9613783deb8e60a05fb59bd"
   },
   "ncp": {
     "version": "8.2.2.0 build 532",
