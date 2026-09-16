@@ -2,7 +2,7 @@
   "version": "v0.5.0-358-g65d7e03",
   "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-358-g65d7e03.bin",
   "size": 2232320,
-  "notes": "修正 Zigbee 网络「找不到」的误报横幅；Zigbee 页可重新声明信道；协调器断开不再复位 Zigbee 芯片；长时间无协调器时会提示",
+  "notes": "修正 Zigbee「找不到网络」误报；可重新声明信道；协调器断开不再复位芯片",
   "sha256": "43705ed4c6c1b6a29d8bf3732da53d59cee41bfebee04ced46dd440f3fb2019f",
   "www": {
     "version": "65d7e03-5ff30984",
