@@ -1,12 +1,12 @@
 {
-  "version": "v0.5.0-365-ga10b14f",
-  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-365-ga10b14f.bin",
+  "version": "v0.5.0-367-g74395aa",
+  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-367-g74395aa.bin",
   "size": 2232320,
-  "notes": "修正云端更新说明里中文可能被截断的问题；新增线路电平诊断端点",
-  "sha256": "b82d220b08e051fedd598d627ee5f20ed53d388add4ab7d1a5d558452fa7fb55",
+  "notes": "重要修复：上一版 Web 管理界面打不开（显示 Nothing matches the given URI），本版已修复",
+  "sha256": "212cc4a97f3044d2f54fb8537cbb05d57b1b31e3e0cf428439bf6df7f3975169",
   "www": {
     "version": "65d7e03-5ff30984",
-    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-365-ga10b14f.bin",
+    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-367-g74395aa.bin",
     "size": 524288,
     "sha256": "3644d15c77fc7ab3ee36f17d96779c925ee95c11c9613783deb8e60a05fb59bd"
   },
