@@ -1,19 +1,20 @@
 {
-  "version": "v0.5.0-371-gafda4b6",
-  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-371-gafda4b6.bin",
-  "size": 2232320,
-  "notes": "修复：启用 TCP 白名单时，被拒绝的连接可能导致 Home Assistant 的 ZHA 永久卡死",
-  "sha256": "c305113f0a60fc214a9adac7d022838938a446f42652a8a85288e663820cb70f",
+  "version": "v0.5.0-484-g2fa95fa",
+  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-484-g2fa95fa.bin",
+  "size": 2297856,
+  "notes": "网口与 WiFi 切换时设备地址不变；无 ZHA 时 Zigbee 网络不再中断；Matter 上限 252；稳定性修复",
+  "sha256": "29d4886a7ac497f77763086326ea231edbf0df6375493e1799d389e1363cf3f4",
   "www": {
-    "version": "65d7e03-5ff30984",
-    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-371-gafda4b6.bin",
+    "version": "1999ae0-a33c25d9",
+    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-484-g2fa95fa.bin",
     "size": 524288,
-    "sha256": "3644d15c77fc7ab3ee36f17d96779c925ee95c11c9613783deb8e60a05fb59bd"
+    "sha256": "369baa15c0e7e8ffed71e9ea3e592b56ada9ff4fa1769ffa695fd0189043ec23"
   },
   "ncp": {
     "version": "8.2.2.0 build 532",
     "url": "https://updates.bitengine.tech/hub/zigbee_ncp-8.2.2.0-build-532.gbl",
     "size": 246656,
-    "sha256": "5a6ece4ccc182b9ba1a967bb5033627dce3aaf69dd963244690857c95612489f"
+    "sha256": "5a6ece4ccc182b9ba1a967bb5033627dce3aaf69dd963244690857c95612489f",
+    "build": "bitEngine-xncp/1.0 v0.5.0-418-gc9ac5d1 2026-10-07 nvm3c=400"
   }
 }
