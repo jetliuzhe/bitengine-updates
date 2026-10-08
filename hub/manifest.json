@@ -1,12 +1,12 @@
 {
-  "version": "v0.5.0-484-g2fa95fa",
-  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-484-g2fa95fa.bin",
+  "version": "v0.5.0-493-g26d9b32",
+  "url": "https://updates.bitengine.tech/hub/bitengine-v0.5.0-493-g26d9b32.bin",
   "size": 2297856,
-  "notes": "网口与 WiFi 切换时设备地址不变；无 ZHA 时 Zigbee 网络不再中断；Matter 上限 252；稳定性修复",
-  "sha256": "29d4886a7ac497f77763086326ea231edbf0df6375493e1799d389e1363cf3f4",
+  "notes": "开着 MQTT 时不再每次开机报内存低（内部内存占用减少约 8 KB）",
+  "sha256": "94245b86df2a47d24356b8826dad0304bb741ffa756e3b36e2e3c65e1d64806b",
   "www": {
     "version": "1999ae0-a33c25d9",
-    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-484-g2fa95fa.bin",
+    "url": "https://updates.bitengine.tech/hub/www-v0.5.0-493-g26d9b32.bin",
     "size": 524288,
     "sha256": "369baa15c0e7e8ffed71e9ea3e592b56ada9ff4fa1769ffa695fd0189043ec23"
   },
